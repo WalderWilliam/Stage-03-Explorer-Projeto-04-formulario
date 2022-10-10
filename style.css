@@ -211,3 +211,7 @@ footer {
   background-color: #04ad50;
   cursor: pointer;
 }
+
+input:invalid {
+  border: 1px solid rgba(255, 0, 0, 0.26);
+}
